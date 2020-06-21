@@ -1,1 +1,59 @@
-{"catalogue":[{"st_name":"PulsRadio 2000","st_source":"https://sc6.gergosnet.com/puls00HD.mp3","st_metadata_source":"https://feed.tunein.com/profiles/s259912/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMDk6NDE6MzIuMjAzOTY5N1oifQ&itemToken=BgUFAAEAAQABAAEAb28BSPcDAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"1.FM - Amsterdam Trance Radio","st_source":"http://strm112.1.fm/atr_mobile_mp3","st_metadata_source":"http://feed.tunein.com/profiles/s139915/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDEtMTJUMTA6MzU6MDIuMzk5MjEwMVoifQ&formats=mp3,aac,ogg,flash,html,hls&serial=5fc32ac8-72b8-4ffd-afc8-8e0b295b25b8&partnerId=RadioTime&version=3.7&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"Trance Athena","st_source":"https://cast.streams.ovh:8008/stream","st_metadata_source":"https://feed.tunein.com/profiles/s196811/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMTA6MjE6MTguMTc2ODAzOFoifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"Sunshine Live - Trance","st_source":"https://sunshinelive.hoerradar.de/sunshine-trance-mp3-128","st_metadata_source":"https://feed.tunein.com/profiles/s237967/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMTE6MTY6MDUuNjI3MDkxM1oifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"TrancePulse Dublin","st_source":"https://stream.trance.ie/stream","st_metadata_source":"https://feed.tunein.com/profiles/s124826/nowPlaying?itemToken=BgUFAAEAAQABAAEAb28BmucBAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"1.FM - Absolute Trance (Euro) Radio","st_source":"https://strm112.1.fm/trance_mobile_mp3","st_metadata_source":"https://feed.tunein.com/profiles/s47724/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTI6MjQ6MDMuMzQ1MTQ3NloifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"TranceBase.FM","st_source":"https://mp3.stream.tb-group.fm/trb.mp3","st_metadata_source":"https://feed.tunein.com/profiles/s96662/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTI6NDQ6MzAuMDgxMTgxMVoifQ&itemToken=BgUFAAEAAQABAAEAb28BlnkBAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"},{"st_name":"FM 98.5 of Vocal Trance Live","st_source":"http://184.152.16.121:8068/;?icy=http","st_metadata_source":"https://feed.tunein.com/profiles/s161500/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTM6MDM6MDUuNzY0Mjg0WiJ9&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"}]}
+{
+  "catalogue": [
+    {
+      "st_name": "PulsRadio 2000",
+      "st_source": "https://sc6.gergosnet.com/puls00HD.mp3",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s259912/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMDk6NDE6MzIuMjAzOTY5N1oifQ&itemToken=BgUFAAEAAQABAAEAb28BSPcDAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "1.FM - Amsterdam Trance Radio",
+      "st_source": "http://strm112.1.fm/atr_mobile_mp3",
+      "st_metadata_source": "http://feed.tunein.com/profiles/s139915/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDEtMTJUMTA6MzU6MDIuMzk5MjEwMVoifQ&formats=mp3,aac,ogg,flash,html,hls&serial=5fc32ac8-72b8-4ffd-afc8-8e0b295b25b8&partnerId=RadioTime&version=3.7&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "Trance Athena",
+      "st_source": "https://cast.streams.ovh:8008/stream",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s196811/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMTA6MjE6MTguMTc2ODAzOFoifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "Sunshine Live - Trance",
+      "st_source": "https://sunshinelive.hoerradar.de/sunshine-trance-mp3-128",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s237967/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMTRUMTE6MTY6MDUuNjI3MDkxM1oifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1101&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "TrancePulse Dublin",
+      "st_source": "https://stream.trance.ie/stream",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s124826/nowPlaying?itemToken=BgUFAAEAAQABAAEAb28BmucBAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "1.FM - Absolute Trance (Euro) Radio",
+      "st_source": "https://strm112.1.fm/trance_mobile_mp3",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s47724/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTI6MjQ6MDMuMzQ1MTQ3NloifQ&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "TranceBase.FM",
+      "st_source": "https://mp3.stream.tb-group.fm/trb.mp3",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s96662/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTI6NDQ6MzAuMDgxMTgxMVoifQ&itemToken=BgUFAAEAAQABAAEAb28BlnkBAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "FM 98.5 of Vocal Trance Live",
+      "st_source": "http://184.152.16.121:8068/;?icy=http",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s161500/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTM6MDM6MDUuNzY0Mjg0WiJ9&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "Prysm Trance",
+      "st_source": "https://n02.rcs.revma.com/tz6kscxqknruv?rj-ttl=5&rj-tok=AAABctcP2j4A4dnRA_0NkkfedQ",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s258363/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTM6MTc6MTcuOTQ5Nzc5MVoifQ&itemToken=BgUFAAEAAQABAAEAb28BO_EDAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "EDM Radio",
+      "st_source": "https://lk.castnow.ru:8100/edm-320.mp3",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s165623/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTM6MjI6MDMuMDA1MjY2MVoifQ&itemToken=BgUFAAEAAQABAAEAb28B94YCAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    },
+    {
+      "st_name": "Discover Trance Radio",
+      "st_source": "http://paris.discovertrance.com:8006/;71965626613084stream.nsv",
+      "st_metadata_source": "https://feed.tunein.com/profiles/s98711/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjAtMDYtMjFUMTM6MjQ6MjMuMDkyOTk0OVoifQ&itemToken=BgUFAAEAAQABAAEAb28Bl4EBAAEFAAA&formats=mp3,aac,ogg,flash,html,hls&serial=a32198b6-c271-405a-a564-2e383c7b9407&partnerId=RadioTime&version=4.1203&itemUrlScheme=secure&reqAttempt=1"
+    }
+  ]
+}
